@@ -6,7 +6,7 @@ MP4 ---> MP3 CONVERTER
      cmnd: npm i ffmpeg-extract-audio
 
 1. Your device **must contain ffmpeg** in-order to run, if not
-     [Refer This for windows]([https://website-name.com](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/)https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/)
+     [Refer This for windows](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/)
      [Refer This for mac](https://phoenixnap.com/kb/ffmpeg-mac)
 
 2. All input files must be in directory **mediaFiles**
